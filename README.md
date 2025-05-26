@@ -9,7 +9,7 @@ This inspired a deeper dive into **market dynamics**, **brand readiness**, and *
 
 
 
-## 🌍 Market Context: Matcha Rising in Europe
+## Market Context: Matcha Rising in Europe
 
 Consumers across Europe are increasingly drawn to **Asian culture** and **wellness trends**, and matcha fits squarely at that intersection.
 
@@ -24,7 +24,7 @@ Matcha is no longer a niche. It’s becoming a **mainstream health beverage** in
 
 
 
-## 💬 GAP Analysis: OMMA Dublin Pop-Up
+## GAP Analysis: OMMA Dublin Pop-Up
 
 | Category | Evaluation | Notes |
 |---------|------------|-------|
@@ -36,7 +36,7 @@ Matcha is no longer a niche. It’s becoming a **mainstream health beverage** in
 
 
 
-## Growth Strategies to Help OMMA Scale in Ireland 📈
+## Growth Strategies to Help OMMA Scale in Ireland 
 
 ### Retail & Physical Expansion
 - Open more locations in **high-footfall areas** across Dublin and other Irish cities.
