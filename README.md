@@ -13,7 +13,7 @@ This inspired a deeper dive into **market dynamics**, **brand readiness**, and *
 
 Consumers across Europe are increasingly drawn to **Asian culture** and **wellness trends**, and matcha fits squarely at that intersection.
 
-### Top Matcha Consumers in Europe (2024 Share of Global Market)
+### Top Matcha Consumers in Europe (2024 Share of Global Market)🌍
 
 - **Germany**: 3.8%  
 - **United Kingdom**: 2.9%  
